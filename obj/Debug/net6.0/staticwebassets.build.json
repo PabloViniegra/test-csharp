@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D4m5IrtTYrL8ZrWtYNJC2mX4S9FUXG+e5iAtjEnCIvc=",
+  "Source": "test-csharp",
+  "BasePath": "_content/test-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
